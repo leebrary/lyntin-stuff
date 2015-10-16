@@ -1,0 +1,4091 @@
+Obvious exits:
+east  - Main Street
+south - Wall Road
+west  - Outside The West Gate Of Midgaard
+
+> Alas, you cannot go that way...
+
+> exits; n
+Obvious exits:
+east  - Main Street
+south - Wall Road
+west  - Outside The West Gate Of Midgaard
+
+> Alas, you cannot go that way...
+
+> exits; n
+Obvious exits:
+east  - Main Street
+south - Wall Road
+west  - Outside The West Gate Of Midgaard
+
+> Wall Road
+   You are walking next to the western city wall.  The road continues further
+south and the city gate is just north of here.
+
+> exits; s
+Obvious exits:
+north - Inside The West Gate Of Midgaard
+south - Wall Road
+
+> Wall Road
+   You are walking next to the western city wall.  Wall Road continues further
+north and south.  A small, poor alley leads east.
+Some letters have been written on the wall here.
+A Peacekeeper is standing here, ready to jump in at the first sign of trouble.
+
+> exits; s
+
+The Peacekeeper leaves south.
+
+> exits
+Obvious exits:
+north - Wall Road
+east  - Poor Alley
+south - Wall Road
+
+> Alas, you cannot go that way...
+
+> w
+Obvious exits:
+north - Wall Road
+east  - Poor Alley
+south - Wall Road
+
+> Wall Road
+   You are walking next to the western city wall.  The road continues further
+south and the city gate is just north of here.
+
+> exits; n
+Obvious exits:
+north - Inside The West Gate Of Midgaard
+south - Wall Road
+
+> Alas, you cannot go that way...
+
+> exits; e
+
+You are hungry.
+You are thirsty.
+
+> exits
+Obvious exits:
+north - Inside The West Gate Of Midgaard
+south - Wall Road
+
+> Wall Road
+   You are walking next to the western city wall.  Wall Road continues further
+north and south.  A small, poor alley leads east.
+Some letters have been written on the wall here.
+A beastly fido is mucking through the garbage looking for food here.
+
+> s
+Obvious exits:
+north - Wall Road
+east  - Poor Alley
+south - Wall Road
+
+> Wall Road
+   You are standing on the road next to the western city wall, which
+continues north.  South of here is a bridge across the river.
+
+> exits; s
+Obvious exits:
+north - Wall Road
+south - On The Bridge
+
+> Alas, you cannot go that way...
+
+> exits; w
+Obvious exits:
+north - Wall Road
+south - On The Bridge
+
+> On The Bridge
+   You are standing on the stone bridge crosses the river.  The bridge is
+built out from the western city wall and the river flows west through an
+opening in the wall ten feet below the bridge.
+A Peacekeeper is standing here, ready to jump in at the first sign of trouble.
+A janitor is walking around, cleaning up.
+
+> exits; s
+Obvious exits:
+north - Wall Road
+south - The Northwest End Of The Concourse
+
+> The Northwest End Of The Concourse
+   You are at the concourse, the city wall is just west.  A small promenade
+goes east, and the bridge is just north of here.  The concourse continues
+south along the city wall.
+
+> exits; s
+Obvious exits:
+north - On The Bridge
+east  - The Promenade
+south - On The Concourse
+
+> The Promenade
+   The river gently flows westwards just north of here.  The promenade
+continues further east and to the west you see the city wall.  Park Road
+leads south from here.
+A white-painted wooden bench is standing here.
+A cityguard stands here.
+
+> exits; e
+Obvious exits:
+east  - The Promenade
+south - Park Road
+west  - The Northwest End Of The Concourse
+
+> Park Road
+   You are at Park Road which continues north and south.
+
+> exits; s
+Obvious exits:
+north - The Promenade
+south - Park Road
+
+> Park Road
+   The road continues north and south.  A building is just west of here, you
+notice a sign on the door.  The park entrance is to the east.
+A cityguard stands here.
+A cityguard stands here.
+
+> exits; s
+Obvious exits:
+north - Park Road
+east  - The Western Park Entrance
+south - Park Road
+
+> Park Road
+   You are at Park Road which continues north and south.
+
+> exits; n
+Obvious exits:
+north - The Promenade
+south - Park Road
+
+> Alas, you cannot go that way...
+
+> exits; e
+Obvious exits:
+north - The Promenade
+south - Park Road
+
+> Alas, you cannot go that way...
+
+> exits; w
+Obvious exits:
+north - The Promenade
+south - Park Road
+
+> Alas, you cannot go that way...
+
+> exits; w
+Obvious exits:
+north - The Promenade
+south - Park Road
+
+> Park Road
+   The road continues north and south.  A building is just west of here, you
+notice a sign on the door.  The park entrance is to the east.
+A cityguard stands here.
+
+> exits; s
+
+The sun slowly disappears in the west.
+You are hungry.
+You are thirsty.
+
+> exits
+Obvious exits:
+north - Park Road
+east  - The Western Park Entrance
+south - Park Road
+
+> Park Road
+   You are at Park Road which continues north and south.
+
+> n
+Obvious exits:
+north - The Promenade
+south - Park Road
+
+> The Promenade
+   The river gently flows westwards just north of here.  The promenade
+continues further east and to the west you see the city wall.  Park Road
+leads south from here.
+A white-painted wooden bench is standing here.
+
+> exits; n
+
+The Mayor has arrived.
+
+> exits
+Obvious exits:
+east  - The Promenade
+south - Park Road
+west  - The Northwest End Of The Concourse
+
+> The Northwest End Of The Concourse
+   You are at the concourse, the city wall is just west.  A small promenade
+goes east, and the bridge is just north of here.  The concourse continues
+south along the city wall.
+
+> w
+Obvious exits:
+north - On The Bridge
+east  - The Promenade
+south - On The Concourse
+
+> On The Bridge
+   You are standing on the stone bridge crosses the river.  The bridge is
+built out from the western city wall and the river flows west through an
+opening in the wall ten feet below the bridge.
+A Peacekeeper is standing here, ready to jump in at the first sign of trouble.
+
+> exits; n
+Obvious exits:
+north - Wall Road
+south - The Northwest End Of The Concourse
+
+> Alas, you cannot go that way...
+
+> exits; e
+Obvious exits:
+north - Wall Road
+south - The Northwest End Of The Concourse
+
+> Wall Road
+   You are standing on the road next to the western city wall, which
+continues north.  South of here is a bridge across the river.
+
+> exits; n
+Obvious exits:
+north - Wall Road
+south - On The Bridge
+
+> Wall Road
+   You are walking next to the western city wall.  Wall Road continues further
+north and south.  A small, poor alley leads east.
+Some letters have been written on the wall here.
+A janitor is walking around, cleaning up.
+A beastly fido is mucking through the garbage looking for food here.
+
+> exits; n
+Obvious exits:
+north - Wall Road
+east  - Poor Alley
+south - Wall Road
+
+> Poor Alley
+   You are on Poor Alley, which continues further east.  You see the
+city wall to the west.
+An odif yltsaeb is here, walking backwards.
+A beggar is here, asking for a few coins.
+
+> exits; e
+Obvious exits:
+east  - The Eastern End Of Poor Alley
+west  - Wall Road
+
+> Alas, you cannot go that way...
+
+> exits; n
+
+The odif yltsaeb leaves east.
+
+> exits
+Obvious exits:
+east  - The Eastern End Of Poor Alley
+west  - Wall Road
+
+> Wall Road
+   You are walking next to the western city wall.  Wall Road continues further
+north and south.  A small, poor alley leads east.
+Some letters have been written on the wall here.
+The Mayor is standing here.
+A janitor is walking around, cleaning up.
+A beastly fido is mucking through the garbage looking for food here.
+
+> w
+Obvious exits:
+north - Wall Road
+east  - Poor Alley
+south - Wall Road
+
+> Alas, you cannot go that way...
+
+> exits; w
+
+The Mayor says 'Vandals!  Youngsters nowadays have no respect for anything!'
+
+> exits
+Obvious exits:
+north - Wall Road
+east  - Poor Alley
+south - Wall Road
+
+> Wall Road
+   You are walking next to the western city wall.  The road continues further
+south and the city gate is just north of here.
+
+> n
+
+The night has begun.
+You are hungry.
+You are thirsty.
+
+> exits
+Obvious exits:
+north - Inside The West Gate Of Midgaard
+south - Wall Road
+
+> Inside The West Gate Of Midgaard
+   You are by two small towers that have been built into the city wall and
+connected with a footbridge across the heavy wooden gate.  Main Street leads
+east and Wall Road leads south from here.
+A cityguard stands here.
+A cityguard stands here.
+A cityguard is here, guarding the gate.
+A cityguard is here, guarding the gate.
+A cityguard is here, guarding the gate.
+A cityguard is here, guarding the gate.
+
+> n
+Obvious exits:
+east  - Main Street
+south - Wall Road
+west  - Outside The West Gate Of Midgaard
+
+> Outside The West Gate Of Midgaard
+   You are by two small towers that have been built into the city wall and
+connected with a footbridge across the heavy wooden gate.  To the west you
+can see the edge of a big forest.
+
+> exits; w
+Obvious exits:
+east  - Inside The West Gate Of Midgaard
+west  - A Road Through The Plains
+
+> Inside The West Gate Of Midgaard
+   You are by two small towers that have been built into the city wall and
+connected with a footbridge across the heavy wooden gate.  Main Street leads
+east and Wall Road leads south from here.
+A cityguard stands here.
+A cityguard stands here.
+A cityguard is here, guarding the gate.
+A cityguard is here, guarding the gate.
+A cityguard is here, guarding the gate.
+A cityguard is here, guarding the gate.
+
+> exits; e
+Obvious exits:
+east  - Main Street
+south - Wall Road
+west  - Outside The West Gate Of Midgaard
+
+> Main Street
+   You are at the end of the main street of Midgaard.  South of here is the
+entrance to the Guild of Magic Users.  The street continues east towards the
+market square.  The magic shop is to the north and to the west is the city
+gate.
+
+> exits; e
+Obvious exits:
+north - The Magic Shop
+east  - Main Street
+south - The Entrance To The Mages' Guild
+west  - Inside The West Gate Of Midgaard
+
+> Inside The West Gate Of Midgaard
+   You are by two small towers that have been built into the city wall and
+connected with a footbridge across the heavy wooden gate.  Main Street leads
+east and Wall Road leads south from here.
+A cityguard stands here.
+A cityguard stands here.
+A cityguard is here, guarding the gate.
+A cityguard is here, guarding the gate.
+A cityguard is here, guarding the gate.
+A cityguard is here, guarding the gate.
+
+> exits; w
+Obvious exits:
+east  - Main Street
+south - Wall Road
+west  - Outside The West Gate Of Midgaard
+
+> Outside The West Gate Of Midgaard
+   You are by two small towers that have been built into the city wall and
+connected with a footbridge across the heavy wooden gate.  To the west you
+can see the edge of a big forest.
+
+> exits; w
+Obvious exits:
+east  - Inside The West Gate Of Midgaard
+west  - A Road Through The Plains
+
+> Alas, you cannot go that way...
+
+> exits; n
+
+The cityguard has arrived.
+
+> exits
+Obvious exits:
+east  - Inside The West Gate Of Midgaard
+west  - A Road Through The Plains
+
+> A Road Through The Plains
+   You are on a dust covered east-west road crossing the grassy plains between
+Midgaard the forest of Haon-Dor.  An occasional hunter or adventurer can be 
+seen, heading to or from the forest.  To the east is the walled city, Midgaard, 
+and to the west the road continues towards a large forest.
+
+> w
+Obvious exits:
+east  - Outside The West Gate Of Midgaard
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; n
+Obvious exits:
+east  - Outside The West Gate Of Midgaard
+west  - Too dark to tell.
+
+> Outside The West Gate Of Midgaard
+   You are by two small towers that have been built into the city wall and
+connected with a footbridge across the heavy wooden gate.  To the west you
+can see the edge of a big forest.
+A cityguard stands here.
+
+> exits; e
+Obvious exits:
+east  - Inside The West Gate Of Midgaard
+west  - A Road Through The Plains
+
+> A Road Through The Plains
+   You are on a dust covered east-west road crossing the grassy plains between
+Midgaard the forest of Haon-Dor.  An occasional hunter or adventurer can be 
+seen, heading to or from the forest.  To the east is the walled city, Midgaard, 
+and to the west the road continues towards a large forest.
+
+> exits; w
+Obvious exits:
+east  - Outside The West Gate Of Midgaard
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+east  - Outside The West Gate Of Midgaard
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; n
+
+You are hungry.
+You are thirsty.
+
+> exits
+Obvious exits:
+east  - Outside The West Gate Of Midgaard
+west  - Too dark to tell.
+
+> It is pitch black...
+
+> w
+Obvious exits:
+east  - A Road Through The Plains
+west  - Too dark to tell.
+
+> It is pitch black...
+
+> exits; w
+Obvious exits:
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> It is pitch black...
+
+> exits; e
+Obvious exits:
+east  - A Road Through The Plains
+west  - Too dark to tell.
+
+> It is pitch black...
+
+> exits; w
+Obvious exits:
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> It is pitch black...
+
+> exits; w
+Obvious exits:
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> It is pitch black...
+
+> exits; e
+Obvious exits:
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> It is pitch black...
+
+> exits; e
+Obvious exits:
+east  - A Road Through The Plains
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+east  - A Road Through The Plains
+west  - Too dark to tell.
+
+> It is pitch black...
+
+> exits; w
+Obvious exits:
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> It is pitch black...
+
+> exits; e
+
+You are hungry.
+You are thirsty.
+
+> exits
+Obvious exits:
+east  - A Road Through The Plains
+west  - Too dark to tell.
+
+> A Road Through The Plains
+   You are on a dust covered east-west road crossing the grassy plains between
+Midgaard the forest of Haon-Dor.  An occasional hunter or adventurer can be 
+seen, heading to or from the forest.  To the east is the walled city, Midgaard, 
+and to the west the road continues towards a large forest.
+
+> e
+Obvious exits:
+east  - Outside The West Gate Of Midgaard
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+east  - Outside The West Gate Of Midgaard
+west  - Too dark to tell.
+
+> It is pitch black...
+
+> exits; w
+Obvious exits:
+east  - A Road Through The Plains
+west  - Too dark to tell.
+
+> It is pitch black...
+
+> exits; w
+Obvious exits:
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> It is pitch black...
+
+> exits; w
+Obvious exits:
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; n
+
+You are hungry.
+You are thirsty.
+
+> exits
+Obvious exits:
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> It is pitch black...
+
+> e
+Obvious exits:
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> It is pitch black...
+
+> exits; e
+Obvious exits:
+east  - A Road Through The Plains
+west  - Too dark to tell.
+
+> A Road Through The Plains
+   You are on a dust covered east-west road crossing the grassy plains between
+Midgaard the forest of Haon-Dor.  An occasional hunter or adventurer can be 
+seen, heading to or from the forest.  To the east is the walled city, Midgaard, 
+and to the west the road continues towards a large forest.
+
+> exits; e
+Obvious exits:
+east  - Outside The West Gate Of Midgaard
+west  - Too dark to tell.
+
+> It is pitch black...
+
+> exits; w
+Obvious exits:
+east  - A Road Through The Plains
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+east  - A Road Through The Plains
+west  - Too dark to tell.
+
+> A Road Through The Plains
+   You are on a dust covered east-west road crossing the grassy plains between
+Midgaard the forest of Haon-Dor.  An occasional hunter or adventurer can be 
+seen, heading to or from the forest.  To the east is the walled city, Midgaard, 
+and to the west the road continues towards a large forest.
+
+> exits; e
+Obvious exits:
+east  - Outside The West Gate Of Midgaard
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+east  - Outside The West Gate Of Midgaard
+west  - Too dark to tell.
+
+> It is pitch black...
+
+> exits; w
+
+You are hungry.
+You are thirsty.
+
+> exits
+Obvious exits:
+east  - A Road Through The Plains
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> n
+Obvious exits:
+east  - A Road Through The Plains
+west  - Too dark to tell.
+
+> A Road Through The Plains
+   You are on a dust covered east-west road crossing the grassy plains between
+Midgaard the forest of Haon-Dor.  An occasional hunter or adventurer can be 
+seen, heading to or from the forest.  To the east is the walled city, Midgaard, 
+and to the west the road continues towards a large forest.
+
+> exits; e
+Obvious exits:
+east  - Outside The West Gate Of Midgaard
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; n
+Obvious exits:
+east  - Outside The West Gate Of Midgaard
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; n
+Obvious exits:
+east  - Outside The West Gate Of Midgaard
+west  - Too dark to tell.
+
+> It is pitch black...
+
+> exits; w
+Obvious exits:
+east  - A Road Through The Plains
+west  - Too dark to tell.
+
+> A Road Through The Plains
+   You are on a dust covered east-west road crossing the grassy plains between
+Midgaard the forest of Haon-Dor.  An occasional hunter or adventurer can be 
+seen, heading to or from the forest.  To the east is the walled city, Midgaard, 
+and to the west the road continues towards a large forest.
+
+> exits; e
+Obvious exits:
+east  - Outside The West Gate Of Midgaard
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+east  - Outside The West Gate Of Midgaard
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+east  - Outside The West Gate Of Midgaard
+west  - Too dark to tell.
+
+> It is pitch black...
+
+> exits; w
+Obvious exits:
+east  - A Road Through The Plains
+west  - Too dark to tell.
+
+> A Road Through The Plains
+   You are on a dust covered east-west road crossing the grassy plains between
+Midgaard the forest of Haon-Dor.  An occasional hunter or adventurer can be 
+seen, heading to or from the forest.  To the east is the walled city, Midgaard, 
+and to the west the road continues towards a large forest.
+
+> exits; e
+Obvious exits:
+east  - Outside The West Gate Of Midgaard
+west  - Too dark to tell.
+
+> Outside The West Gate Of Midgaard
+   You are by two small towers that have been built into the city wall and
+connected with a footbridge across the heavy wooden gate.  To the west you
+can see the edge of a big forest.
+A beastly fido is mucking through the garbage looking for food here.
+
+> exits; e
+Obvious exits:
+west  - A Road Through The Plains
+
+> Alas, you cannot go that way...
+
+> exits; s
+
+You are hungry.
+You are thirsty.
+
+> exits
+Obvious exits:
+west  - A Road Through The Plains
+
+> Alas, you cannot go that way...
+
+> n
+Obvious exits:
+west  - A Road Through The Plains
+
+> The gate seems to be closed.
+
+> exits; e
+Obvious exits:
+west  - A Road Through The Plains
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+west  - A Road Through The Plains
+
+> Alas, you cannot go that way...
+
+> exits; n
+Obvious exits:
+west  - A Road Through The Plains
+
+> A Road Through The Plains
+   You are on a dust covered east-west road crossing the grassy plains between
+Midgaard the forest of Haon-Dor.  An occasional hunter or adventurer can be 
+seen, heading to or from the forest.  To the east is the walled city, Midgaard, 
+and to the west the road continues towards a large forest.
+
+> exits; w
+Obvious exits:
+east  - Outside The West Gate Of Midgaard
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+east  - Outside The West Gate Of Midgaard
+west  - Too dark to tell.
+
+> It is pitch black...
+
+> exits; w
+Obvious exits:
+east  - A Road Through The Plains
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; n
+Obvious exits:
+east  - A Road Through The Plains
+west  - Too dark to tell.
+
+> It is pitch black...
+
+> exits; w
+Obvious exits:
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> It is pitch black...
+
+> exits; e
+Obvious exits:
+east  - A Road Through The Plains
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; n
+Obvious exits:
+east  - A Road Through The Plains
+west  - Too dark to tell.
+
+> It is pitch black...
+
+> exits; w
+Obvious exits:
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> It is pitch black...
+
+> exits; w
+
+You are hungry.
+You are thirsty.
+
+> exits
+Obvious exits:
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> It is pitch black...
+
+> w
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> It is pitch black...
+
+> exits; e
+Obvious exits:
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> It is pitch black...
+
+> exits; w
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> It is pitch black...
+
+> exits; w
+Obvious exits:
+east  - Too dark to tell.
+south - Too dark to tell.
+west  - Too dark to tell.
+
+> It is pitch black...
+
+> exits; s
+Obvious exits:
+north - Too dark to tell.
+south - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; e
+Obvious exits:
+north - Too dark to tell.
+south - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; e
+Obvious exits:
+north - Too dark to tell.
+south - Too dark to tell.
+
+> It is pitch black...
+
+> exits; n
+Obvious exits:
+east  - Too dark to tell.
+south - Too dark to tell.
+west  - Too dark to tell.
+
+> You are too exhausted.
+
+> exits; e
+Obvious exits:
+east  - Too dark to tell.
+south - Too dark to tell.
+west  - Too dark to tell.
+
+> You are too exhausted.
+
+> exits; e
+Obvious exits:
+east  - Too dark to tell.
+south - Too dark to tell.
+west  - Too dark to tell.
+
+> You are too exhausted.
+
+> exits; e
+
+The sun rises in the east.
+You are hungry.
+You are thirsty.
+
+> exits
+Obvious exits:
+east  - A Trail Through The Light Forest
+south - A Small Path Through The Light Forest
+west  - A Trail Through The Dense Forest
+
+> A Small Path Through The Light Forest
+   You are on a small path leading through the forest.  The trees are tall and
+slender.  Paths lead north and south.
+A grey squirrel with a bushy tail is foraging for nuts here.
+
+> s
+Obvious exits:
+north - A Trail Through The Light Forest
+south - The Forest Clearing
+
+> Alas, you cannot go that way...
+
+> exits; w
+Obvious exits:
+north - A Trail Through The Light Forest
+south - The Forest Clearing
+
+> You are too exhausted.
+
+> exits; n
+Obvious exits:
+north - A Trail Through The Light Forest
+south - The Forest Clearing
+
+> Alas, you cannot go that way...
+
+> exits; w
+
+The robin has arrived.
+
+> exits
+Obvious exits:
+north - A Trail Through The Light Forest
+south - The Forest Clearing
+
+> Alas, you cannot go that way...
+
+> e
+Obvious exits:
+north - A Trail Through The Light Forest
+south - The Forest Clearing
+
+> You are too exhausted.
+
+> exits; n
+Obvious exits:
+north - A Trail Through The Light Forest
+south - The Forest Clearing
+
+> Alas, you cannot go that way...
+
+> exits; e
+Obvious exits:
+north - A Trail Through The Light Forest
+south - The Forest Clearing
+
+> Alas, you cannot go that way...
+
+> exits; w
+Obvious exits:
+north - A Trail Through The Light Forest
+south - The Forest Clearing
+
+> Alas, you cannot go that way...
+
+> exits; w
+Obvious exits:
+north - A Trail Through The Light Forest
+south - The Forest Clearing
+
+> Alas, you cannot go that way...
+
+> exits; w
+Obvious exits:
+north - A Trail Through The Light Forest
+south - The Forest Clearing
+
+> Alas, you cannot go that way...
+
+> exits; e
+Obvious exits:
+north - A Trail Through The Light Forest
+south - The Forest Clearing
+
+> Alas, you cannot go that way...
+
+> exits; w
+Obvious exits:
+north - A Trail Through The Light Forest
+south - The Forest Clearing
+
+> You are too exhausted.
+
+> exits; s
+
+The day has begun.
+You are hungry.
+You are thirsty.
+
+> exits
+Obvious exits:
+north - A Trail Through The Light Forest
+south - The Forest Clearing
+
+> The Forest Clearing
+   You are in a clearing in the forest.  Lots of fresh stumps of varying sizes
+protrude from the ground and heavy logs are stacked neatly in a big pile
+supported by stakes set into the ground.  Paths lead north, east and west.
+A small brook trickles through the forest beside the path.
+John the Lumberjack is here, looking for some trees to chop down.
+A sparrow is flapping around by the ground.
+
+> s
+
+John the Lumberjack leaves east.
+
+> exits
+Obvious exits:
+north - A Small Path Through The Light Forest
+east  - Outside A Small Cabin In The Forest
+west  - An Intersection In The Dense Forest
+
+> Outside A Small Cabin In The Forest
+   You are outside a small cabin built entirely from heavy logs.  There is a
+wooden door to the north and small paths lead west and south through the trees.
+John the Lumberjack is here, looking for some trees to chop down.
+
+> e
+Obvious exits:
+south - An Intersection In The Dense Forest
+west  - The Forest Clearing
+
+> You are too exhausted.
+
+> exits; s
+Obvious exits:
+south - An Intersection In The Dense Forest
+west  - The Forest Clearing
+
+> Alas, you cannot go that way...
+
+> exits; e
+Obvious exits:
+south - An Intersection In The Dense Forest
+west  - The Forest Clearing
+
+> The door seems to be closed.
+
+> exits; n
+Obvious exits:
+south - An Intersection In The Dense Forest
+west  - The Forest Clearing
+
+> The door seems to be closed.
+
+> exits; n
+Obvious exits:
+south - An Intersection In The Dense Forest
+west  - The Forest Clearing
+
+> The door seems to be closed.
+
+> exits; n
+Obvious exits:
+south - An Intersection In The Dense Forest
+west  - The Forest Clearing
+
+> Alas, you cannot go that way...
+
+> exits; e
+Obvious exits:
+south - An Intersection In The Dense Forest
+west  - The Forest Clearing
+
+> You are too exhausted.
+
+> exits; s
+Obvious exits:
+south - An Intersection In The Dense Forest
+west  - The Forest Clearing
+
+> You are too exhausted.
+
+> exits; w
+Obvious exits:
+south - An Intersection In The Dense Forest
+west  - The Forest Clearing
+
+> The door seems to be closed.
+
+> exits; n
+Obvious exits:
+south - An Intersection In The Dense Forest
+west  - The Forest Clearing
+
+> You are too exhausted.
+
+> exits; w
+
+You are hungry.
+You are thirsty.
+
+> exits
+Obvious exits:
+south - An Intersection In The Dense Forest
+west  - The Forest Clearing
+
+> An Intersection In The Dense Forest
+   You are on a small path leading through the dense forest.  The forest
+gradually lightens to the north.  Paths lead north, east and west.
+A small brook trickles through the forest beside the path.
+A small rabbit is foraging in the bushes here.
+A small rabbit is foraging in the bushes here.
+
+> s
+Obvious exits:
+north - Outside A Small Cabin In The Forest
+east  - A Small Path In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+north - Outside A Small Cabin In The Forest
+east  - A Small Path In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> A Small Path In The Dense Forest
+   You are on a small path leading through the dense forest.  The crowns of
+the old trees leave the forest in an unreal twilight illumination.  The path
+continues south and west.
+
+> exits; e
+Obvious exits:
+south - A Small Path In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> You are too exhausted.
+
+> exits; s
+Obvious exits:
+south - A Small Path In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> You are too exhausted.
+
+> exits; w
+Obvious exits:
+south - A Small Path In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; n
+Obvious exits:
+south - A Small Path In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; e
+Obvious exits:
+south - A Small Path In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; n
+Obvious exits:
+south - A Small Path In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> You are too exhausted.
+
+> exits; s
+Obvious exits:
+south - A Small Path In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; e
+Obvious exits:
+south - A Small Path In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; n
+Obvious exits:
+south - A Small Path In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; e
+Obvious exits:
+south - A Small Path In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; n
+
+You are hungry.
+You are thirsty.
+
+> exits
+Obvious exits:
+south - A Small Path In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> An Intersection In The Dense Forest
+   You are on a small path leading through the dense forest.  The forest
+gradually lightens to the north.  Paths lead north, east and west.
+A small brook trickles through the forest beside the path.
+A small rabbit is foraging in the bushes here.
+
+> w
+
+The rabbit leaves north.
+
+> exits
+Obvious exits:
+north - Outside A Small Cabin In The Forest
+east  - A Small Path In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> s
+Obvious exits:
+north - Outside A Small Cabin In The Forest
+east  - A Small Path In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+north - Outside A Small Cabin In The Forest
+east  - A Small Path In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; e
+Obvious exits:
+north - Outside A Small Cabin In The Forest
+east  - A Small Path In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; n
+Obvious exits:
+north - Outside A Small Cabin In The Forest
+east  - A Small Path In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; n
+Obvious exits:
+north - Outside A Small Cabin In The Forest
+east  - A Small Path In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; n
+Obvious exits:
+north - Outside A Small Cabin In The Forest
+east  - A Small Path In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+north - Outside A Small Cabin In The Forest
+east  - A Small Path In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+north - Outside A Small Cabin In The Forest
+east  - A Small Path In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; w
+Obvious exits:
+north - Outside A Small Cabin In The Forest
+east  - A Small Path In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+north - Outside A Small Cabin In The Forest
+east  - A Small Path In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; e
+
+You are hungry.
+You are thirsty.
+
+> exits
+Obvious exits:
+north - Outside A Small Cabin In The Forest
+east  - A Small Path In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> A Small Path In The Dense Forest
+   You are on a small path leading through the dense forest.  The crowns of
+the old trees leave the forest in an unreal twilight illumination.  The path
+continues east and west.
+A small brook trickles through the forest beside the path.
+A small mushroom grows nearby.
+
+> w
+Obvious exits:
+east  - An Intersection In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+east  - An Intersection In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+east  - An Intersection In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> An Intersection In The Dense Forest
+   You are on a small path leading through the dense forest.  The forest
+gradually lightens to the north.  Paths lead north, east and west.
+A small brook trickles through the forest beside the path.
+A small rabbit is foraging in the bushes here.
+
+> exits; e
+Obvious exits:
+north - Outside A Small Cabin In The Forest
+east  - A Small Path In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; e
+Obvious exits:
+north - Outside A Small Cabin In The Forest
+east  - A Small Path In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; w
+Obvious exits:
+north - Outside A Small Cabin In The Forest
+east  - A Small Path In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+north - Outside A Small Cabin In The Forest
+east  - A Small Path In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; s
+
+John the Lumberjack has arrived.
+
+> exits
+Obvious exits:
+north - Outside A Small Cabin In The Forest
+east  - A Small Path In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> n
+Obvious exits:
+north - Outside A Small Cabin In The Forest
+east  - A Small Path In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> The rabbit leaves west.
+You are hungry.
+You are thirsty.
+Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+north - Outside A Small Cabin In The Forest
+east  - A Small Path In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> A Small Path In The Dense Forest
+   You are on a small path leading through the dense forest.  The crowns of
+the old trees leave the forest in an unreal twilight illumination.  The path
+continues east and west.
+A small brook trickles through the forest beside the path.
+A small mushroom grows nearby.
+A small rabbit is foraging in the bushes here.
+
+> exits; w
+Obvious exits:
+east  - An Intersection In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> An Intersection In The Dense Forest
+   You are on a small path leading through the dense forest.  The forest
+gradually lightens to the north.  Paths lead north, east and west.
+A small brook trickles through the forest beside the path.
+
+> exits; e
+Obvious exits:
+north - Outside A Small Cabin In The Forest
+east  - A Small Path In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; w
+Obvious exits:
+north - Outside A Small Cabin In The Forest
+east  - A Small Path In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; n
+Obvious exits:
+north - Outside A Small Cabin In The Forest
+east  - A Small Path In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; n
+Obvious exits:
+north - Outside A Small Cabin In The Forest
+east  - A Small Path In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+north - Outside A Small Cabin In The Forest
+east  - A Small Path In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; e
+Obvious exits:
+north - Outside A Small Cabin In The Forest
+east  - A Small Path In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; e
+Obvious exits:
+north - Outside A Small Cabin In The Forest
+east  - A Small Path In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; n
+Obvious exits:
+north - Outside A Small Cabin In The Forest
+east  - A Small Path In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; w
+Obvious exits:
+north - Outside A Small Cabin In The Forest
+east  - A Small Path In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; w
+
+John the Lumberjack has arrived.
+
+> exits
+Obvious exits:
+north - Outside A Small Cabin In The Forest
+east  - A Small Path In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> 
+You are hungry.
+You are thirsty.
+
+> w
+
+The sparrow has arrived.
+
+> exits
+Obvious exits:
+north - Outside A Small Cabin In The Forest
+east  - A Small Path In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> A Small Path In The Dense Forest
+   You are on a small path leading through the dense forest.  The crowns of
+the old trees leave the forest in an unreal twilight illumination.  The path
+continues south and west.
+
+> e
+Obvious exits:
+south - A Small Path In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; n
+Obvious exits:
+south - A Small Path In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> You are too exhausted.
+
+> exits; w
+Obvious exits:
+south - A Small Path In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> You are too exhausted.
+
+> exits; s
+Obvious exits:
+south - A Small Path In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> You are too exhausted.
+
+> exits; s
+Obvious exits:
+south - A Small Path In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> You are too exhausted.
+
+> exits; w
+Obvious exits:
+south - A Small Path In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> You are too exhausted.
+
+> exits; w
+Obvious exits:
+south - A Small Path In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; e
+Obvious exits:
+south - A Small Path In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> You are too exhausted.
+
+> exits; w
+Obvious exits:
+south - A Small Path In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; n
+Obvious exits:
+south - A Small Path In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; e
+Obvious exits:
+south - A Small Path In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> You are too exhausted.
+
+> exits; w
+
+You are hungry.
+You are thirsty.
+
+> exits
+Obvious exits:
+south - A Small Path In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> e
+Obvious exits:
+south - A Small Path In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> An Intersection In The Dense Forest
+   You are on a small path leading through the dense forest.  The forest
+gradually lightens to the north.  Paths lead north, east and west.
+A small brook trickles through the forest beside the path.
+A robin is hopping around looking for bugs to eat.
+A sparrow is flapping around by the ground.
+John the Lumberjack is here, looking for some trees to chop down.
+
+> exits; w
+Obvious exits:
+north - Outside A Small Cabin In The Forest
+east  - A Small Path In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> A Small Path In The Dense Forest
+   You are on a small path leading through the dense forest.  The crowns of
+the old trees leave the forest in an unreal twilight illumination.  The path
+continues east and west.
+A small brook trickles through the forest beside the path.
+A small mushroom grows nearby.
+
+> exits; w
+Obvious exits:
+east  - An Intersection In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> You are too exhausted.
+
+> exits; w
+Obvious exits:
+east  - An Intersection In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> You are too exhausted.
+
+> exits; w
+Obvious exits:
+east  - An Intersection In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; n
+Obvious exits:
+east  - An Intersection In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> You are too exhausted.
+
+> exits; e
+Obvious exits:
+east  - An Intersection In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> You are too exhausted.
+
+> exits; e
+Obvious exits:
+east  - An Intersection In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+east  - An Intersection In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+east  - An Intersection In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; n
+Obvious exits:
+east  - An Intersection In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+east  - An Intersection In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> You are too exhausted.
+
+> 
+You are hungry.
+You are thirsty.
+
+> exits; w
+Obvious exits:
+east  - An Intersection In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> An Intersection In The Dense Forest
+   You are on a small path leading through the dense forest.  The crowns of the
+old trees leave the forest floor in an unreal twilight illumination.  Paths
+lead north, east and south.
+A sparrow is flapping around by the ground.
+A fallow deer is grazing peacefully here.
+A small rabbit is foraging in the bushes here.
+
+> exits; w
+Obvious exits:
+north - An Intersection In The Dense Forest
+east  - A Small Path In The Dense Forest
+south - A Small Path In The Dense Forest
+
+> An Intersection In The Dense Forest
+   You are on a small path leading through the dense forest.  The crowns of
+the old trees leave the forest in an unreal twilight illumination.  The forest
+gradually lightens to the east.  Paths lead east, west and south.
+A small brook trickles through the forest beside the path.
+
+> exits; n
+Obvious exits:
+east  - The Forest Clearing
+south - An Intersection In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; s
+Obvious exits:
+east  - The Forest Clearing
+south - An Intersection In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; n
+Obvious exits:
+east  - The Forest Clearing
+south - An Intersection In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; s
+Obvious exits:
+east  - The Forest Clearing
+south - An Intersection In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; w
+Obvious exits:
+east  - The Forest Clearing
+south - An Intersection In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; s
+Obvious exits:
+east  - The Forest Clearing
+south - An Intersection In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; s
+Obvious exits:
+east  - The Forest Clearing
+south - An Intersection In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; s
+Obvious exits:
+east  - The Forest Clearing
+south - An Intersection In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; s
+
+The fallow deer has arrived.
+
+> exits
+Obvious exits:
+east  - The Forest Clearing
+south - An Intersection In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> n
+Obvious exits:
+east  - The Forest Clearing
+south - An Intersection In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; s
+
+You are hungry.
+You are thirsty.
+
+> exits
+Obvious exits:
+east  - The Forest Clearing
+south - An Intersection In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> A Small Path In The Dense Forest
+   You are on a small path leading through the dense forest.  The crowns of
+the old trees leave the forest in an unreal twilight illumination.  The path
+continues north and east.
+A small brook trickles through the forest beside the path.
+A small mushroom grows nearby.
+
+> w
+Obvious exits:
+north - A Small Path In The Dense Forest
+east  - An Intersection In The Dense Forest
+
+> You are too exhausted.
+
+> exits; e
+Obvious exits:
+north - A Small Path In The Dense Forest
+east  - An Intersection In The Dense Forest
+
+> You are too exhausted.
+
+> exits; n
+Obvious exits:
+north - A Small Path In The Dense Forest
+east  - An Intersection In The Dense Forest
+
+> You are too exhausted.
+
+> exits; e
+Obvious exits:
+north - A Small Path In The Dense Forest
+east  - An Intersection In The Dense Forest
+
+> You are too exhausted.
+
+> exits; n
+Obvious exits:
+north - A Small Path In The Dense Forest
+east  - An Intersection In The Dense Forest
+
+> You are too exhausted.
+
+> exits; n
+Obvious exits:
+north - A Small Path In The Dense Forest
+east  - An Intersection In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; w
+Obvious exits:
+north - A Small Path In The Dense Forest
+east  - An Intersection In The Dense Forest
+
+> You are too exhausted.
+
+> exits; e
+Obvious exits:
+north - A Small Path In The Dense Forest
+east  - An Intersection In The Dense Forest
+
+> You are too exhausted.
+
+> exits; e
+Obvious exits:
+north - A Small Path In The Dense Forest
+east  - An Intersection In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; w
+Obvious exits:
+north - A Small Path In The Dense Forest
+east  - An Intersection In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; w
+Obvious exits:
+north - A Small Path In The Dense Forest
+east  - An Intersection In The Dense Forest
+
+> You are too exhausted.
+
+> exits; e
+Obvious exits:
+north - A Small Path In The Dense Forest
+east  - An Intersection In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> 
+The rain stops.
+You are hungry.
+You are thirsty.
+
+> exits; w
+Obvious exits:
+north - A Small Path In The Dense Forest
+east  - An Intersection In The Dense Forest
+
+> An Intersection In The Dense Forest
+   You are on a small path leading through the dense forest.  The crowns of
+the old trees leave the forest in an unreal twilight illumination.  The forest
+gradually lightens to the east.  Paths lead east, west and south.
+A small brook trickles through the forest beside the path.
+
+> exits; e
+Obvious exits:
+east  - The Forest Clearing
+south - An Intersection In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; n
+Obvious exits:
+east  - The Forest Clearing
+south - An Intersection In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> An Intersection In The Dense Forest
+   You are on a small path leading through the dense forest.  The crowns of the
+old trees leave the forest floor in an unreal twilight illumination.  Paths
+lead north, east and south.
+
+> exits; s
+Obvious exits:
+north - An Intersection In The Dense Forest
+east  - A Small Path In The Dense Forest
+south - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; e
+Obvious exits:
+north - An Intersection In The Dense Forest
+east  - A Small Path In The Dense Forest
+south - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; n
+Obvious exits:
+north - An Intersection In The Dense Forest
+east  - A Small Path In The Dense Forest
+south - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; e
+Obvious exits:
+north - An Intersection In The Dense Forest
+east  - A Small Path In The Dense Forest
+south - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; e
+Obvious exits:
+north - An Intersection In The Dense Forest
+east  - A Small Path In The Dense Forest
+south - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; s
+Obvious exits:
+north - An Intersection In The Dense Forest
+east  - A Small Path In The Dense Forest
+south - A Small Path In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; w
+Obvious exits:
+north - An Intersection In The Dense Forest
+east  - A Small Path In The Dense Forest
+south - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; n
+Obvious exits:
+north - An Intersection In The Dense Forest
+east  - A Small Path In The Dense Forest
+south - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; e
+Obvious exits:
+north - An Intersection In The Dense Forest
+east  - A Small Path In The Dense Forest
+south - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; s
+
+You are hungry.
+You are thirsty.
+
+> exits
+Obvious exits:
+north - An Intersection In The Dense Forest
+east  - A Small Path In The Dense Forest
+south - A Small Path In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> w
+Obvious exits:
+north - An Intersection In The Dense Forest
+east  - A Small Path In The Dense Forest
+south - A Small Path In The Dense Forest
+
+> A Small Path In The Dense Forest
+   You are on a small path leading through the dense forest.  The crowns of
+the old trees leave the forest in an unreal twilight illumination.  The path
+continues east and west.
+A small brook trickles through the forest beside the path.
+A small mushroom grows nearby.
+
+> exits; e
+Obvious exits:
+east  - An Intersection In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> An Intersection In The Dense Forest
+   You are on a small path leading through the dense forest.  The crowns of the
+old trees leave the forest floor in an unreal twilight illumination.  Paths
+lead north, east and south.
+
+> exits; w
+Obvious exits:
+north - An Intersection In The Dense Forest
+east  - A Small Path In The Dense Forest
+south - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; n
+Obvious exits:
+north - An Intersection In The Dense Forest
+east  - A Small Path In The Dense Forest
+south - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; n
+Obvious exits:
+north - An Intersection In The Dense Forest
+east  - A Small Path In The Dense Forest
+south - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; e
+Obvious exits:
+north - An Intersection In The Dense Forest
+east  - A Small Path In The Dense Forest
+south - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; e
+Obvious exits:
+north - An Intersection In The Dense Forest
+east  - A Small Path In The Dense Forest
+south - A Small Path In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; w
+Obvious exits:
+north - An Intersection In The Dense Forest
+east  - A Small Path In The Dense Forest
+south - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; e
+Obvious exits:
+north - An Intersection In The Dense Forest
+east  - A Small Path In The Dense Forest
+south - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; e
+Obvious exits:
+north - An Intersection In The Dense Forest
+east  - A Small Path In The Dense Forest
+south - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; n
+Obvious exits:
+north - An Intersection In The Dense Forest
+east  - A Small Path In The Dense Forest
+south - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; s
+Obvious exits:
+north - An Intersection In The Dense Forest
+east  - A Small Path In The Dense Forest
+south - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> 
+You are hungry.
+You are thirsty.
+
+> exits; n
+Obvious exits:
+north - An Intersection In The Dense Forest
+east  - A Small Path In The Dense Forest
+south - A Small Path In The Dense Forest
+
+> An Intersection In The Dense Forest
+   You are on a small path leading through the dense forest.  The crowns of
+the old trees leave the forest in an unreal twilight illumination.  The forest
+gradually lightens to the east.  Paths lead east, west and south.
+A small brook trickles through the forest beside the path.
+
+> exits; n
+Obvious exits:
+east  - The Forest Clearing
+south - An Intersection In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; e
+Obvious exits:
+east  - The Forest Clearing
+south - An Intersection In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; n
+Obvious exits:
+east  - The Forest Clearing
+south - An Intersection In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; e
+Obvious exits:
+east  - The Forest Clearing
+south - An Intersection In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; e
+Obvious exits:
+east  - The Forest Clearing
+south - An Intersection In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; n
+Obvious exits:
+east  - The Forest Clearing
+south - An Intersection In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; e
+Obvious exits:
+east  - The Forest Clearing
+south - An Intersection In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; n
+Obvious exits:
+east  - The Forest Clearing
+south - An Intersection In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; n
+Obvious exits:
+east  - The Forest Clearing
+south - An Intersection In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; s
+Obvious exits:
+east  - The Forest Clearing
+south - An Intersection In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; s
+Obvious exits:
+east  - The Forest Clearing
+south - An Intersection In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; e
+
+You are hungry.
+You are thirsty.
+
+> exits
+Obvious exits:
+east  - The Forest Clearing
+south - An Intersection In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> The Forest Clearing
+   You are in a clearing in the forest.  Lots of fresh stumps of varying sizes
+protrude from the ground and heavy logs are stacked neatly in a big pile
+supported by stakes set into the ground.  Paths lead north, east and west.
+A small brook trickles through the forest beside the path.
+A grey squirrel with a bushy tail is foraging for nuts here.
+A fallow deer is grazing peacefully here.
+
+> e
+Obvious exits:
+north - A Small Path Through The Light Forest
+east  - Outside A Small Cabin In The Forest
+west  - An Intersection In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+north - A Small Path Through The Light Forest
+east  - Outside A Small Cabin In The Forest
+west  - An Intersection In The Dense Forest
+
+> Outside A Small Cabin In The Forest
+   You are outside a small cabin built entirely from heavy logs.  There is a
+wooden door to the north and small paths lead west and south through the trees.
+
+> exits; e
+Obvious exits:
+south - An Intersection In The Dense Forest
+west  - The Forest Clearing
+
+> You are too exhausted.
+
+> exits; s
+Obvious exits:
+south - An Intersection In The Dense Forest
+west  - The Forest Clearing
+
+> The door seems to be closed.
+
+> exits; n
+Obvious exits:
+south - An Intersection In The Dense Forest
+west  - The Forest Clearing
+
+> You are too exhausted.
+
+> exits; s
+Obvious exits:
+south - An Intersection In The Dense Forest
+west  - The Forest Clearing
+
+> You are too exhausted.
+
+> exits; w
+Obvious exits:
+south - An Intersection In The Dense Forest
+west  - The Forest Clearing
+
+> Alas, you cannot go that way...
+
+> exits; e
+Obvious exits:
+south - An Intersection In The Dense Forest
+west  - The Forest Clearing
+
+> You are too exhausted.
+
+> exits; w
+Obvious exits:
+south - An Intersection In The Dense Forest
+west  - The Forest Clearing
+
+> The door seems to be closed.
+
+> exits; n
+Obvious exits:
+south - An Intersection In The Dense Forest
+west  - The Forest Clearing
+
+> You are too exhausted.
+
+> exits; w
+Obvious exits:
+south - An Intersection In The Dense Forest
+west  - The Forest Clearing
+
+> You are too exhausted.
+
+> exits; w
+Obvious exits:
+south - An Intersection In The Dense Forest
+west  - The Forest Clearing
+
+> The door seems to be closed.
+
+> 
+You are hungry.
+You are thirsty.
+
+> exits; n
+Obvious exits:
+south - An Intersection In The Dense Forest
+west  - The Forest Clearing
+
+> The door seems to be closed.
+
+> exits; n
+Obvious exits:
+south - An Intersection In The Dense Forest
+west  - The Forest Clearing
+
+> The door seems to be closed.
+
+> exits; n
+Obvious exits:
+south - An Intersection In The Dense Forest
+west  - The Forest Clearing
+
+> Alas, you cannot go that way...
+
+> exits; e
+Obvious exits:
+south - An Intersection In The Dense Forest
+west  - The Forest Clearing
+
+> The door seems to be closed.
+
+> exits; n
+Obvious exits:
+south - An Intersection In The Dense Forest
+west  - The Forest Clearing
+
+> The door seems to be closed.
+
+> exits; n
+Obvious exits:
+south - An Intersection In The Dense Forest
+west  - The Forest Clearing
+
+> The door seems to be closed.
+
+> exits; n
+Obvious exits:
+south - An Intersection In The Dense Forest
+west  - The Forest Clearing
+
+> The door seems to be closed.
+
+> exits; n
+Obvious exits:
+south - An Intersection In The Dense Forest
+west  - The Forest Clearing
+
+> An Intersection In The Dense Forest
+   You are on a small path leading through the dense forest.  The forest
+gradually lightens to the north.  Paths lead north, east and west.
+A small brook trickles through the forest beside the path.
+
+> exits; s
+
+You are hungry.
+You are thirsty.
+
+> exits
+Obvious exits:
+north - Outside A Small Cabin In The Forest
+east  - A Small Path In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> s
+Obvious exits:
+north - Outside A Small Cabin In The Forest
+east  - A Small Path In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+north - Outside A Small Cabin In The Forest
+east  - A Small Path In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> A Small Path In The Dense Forest
+   You are on a small path leading through the dense forest.  The crowns of
+the old trees leave the forest in an unreal twilight illumination.  The path
+continues east and west.
+A small brook trickles through the forest beside the path.
+A small mushroom grows nearby.
+
+> exits; w
+Obvious exits:
+east  - An Intersection In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+east  - An Intersection In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> An Intersection In The Dense Forest
+   You are on a small path leading through the dense forest.  The crowns of the
+old trees leave the forest floor in an unreal twilight illumination.  Paths
+lead north, east and south.
+
+> exits; w
+Obvious exits:
+north - An Intersection In The Dense Forest
+east  - A Small Path In The Dense Forest
+south - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; n
+Obvious exits:
+north - An Intersection In The Dense Forest
+east  - A Small Path In The Dense Forest
+south - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; s
+
+The robin has arrived.
+
+> exits
+Obvious exits:
+north - An Intersection In The Dense Forest
+east  - A Small Path In The Dense Forest
+south - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> e
+Obvious exits:
+north - An Intersection In The Dense Forest
+east  - A Small Path In The Dense Forest
+south - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; e
+
+The rabbit has arrived.
+
+> exits
+Obvious exits:
+north - An Intersection In The Dense Forest
+east  - A Small Path In The Dense Forest
+south - A Small Path In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> w
+Obvious exits:
+north - An Intersection In The Dense Forest
+east  - A Small Path In The Dense Forest
+south - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; n
+Obvious exits:
+north - An Intersection In The Dense Forest
+east  - A Small Path In The Dense Forest
+south - A Small Path In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; w
+Obvious exits:
+north - An Intersection In The Dense Forest
+east  - A Small Path In The Dense Forest
+south - A Small Path In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; w
+
+The sun slowly disappears in the west.
+You are hungry.
+You are thirsty.
+
+> exits
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+south - Too dark to tell.
+
+> It is pitch black...
+
+> n
+Obvious exits:
+east  - Too dark to tell.
+south - Too dark to tell.
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; n
+Obvious exits:
+east  - Too dark to tell.
+south - Too dark to tell.
+west  - Too dark to tell.
+
+> It is pitch black...
+
+> exits; e
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> You are too exhausted.
+
+> exits; e
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> You are too exhausted.
+
+> exits; n
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> You are too exhausted.
+
+> exits; e
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> You are too exhausted.
+
+> exits; n
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> You are too exhausted.
+
+> exits; e
+
+The night has begun.
+You are hungry.
+You are thirsty.
+
+> exits
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> It is pitch black...
+
+> w
+Obvious exits:
+east  - Too dark to tell.
+south - Too dark to tell.
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; n
+Obvious exits:
+east  - Too dark to tell.
+south - Too dark to tell.
+west  - Too dark to tell.
+
+> It is pitch black...
+
+> exits; e
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> You are too exhausted.
+
+> exits; w
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> You are too exhausted.
+
+> exits; w
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> You are too exhausted.
+
+> exits; n
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> You are too exhausted.
+
+> exits; n
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> You are too exhausted.
+
+> exits; n
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> You are too exhausted.
+
+> exits; e
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> You are too exhausted.
+
+> exits; w
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> You are too exhausted.
+
+> exits; n
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> You are too exhausted.
+
+> exits; e
+
+You are hungry.
+You are thirsty.
+
+> exits
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> s
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> It is pitch black...
+
+> exits; e
+Obvious exits:
+south - Too dark to tell.
+west  - Too dark to tell.
+
+> You are too exhausted.
+
+> exits; w
+Obvious exits:
+south - Too dark to tell.
+west  - Too dark to tell.
+
+> You are too exhausted.
+
+> exits; w
+Obvious exits:
+south - Too dark to tell.
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; e
+Obvious exits:
+south - Too dark to tell.
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; e
+Obvious exits:
+south - Too dark to tell.
+west  - Too dark to tell.
+
+> You are too exhausted.
+
+> exits; s
+Obvious exits:
+south - Too dark to tell.
+west  - Too dark to tell.
+
+> You are too exhausted.
+
+> exits; s
+Obvious exits:
+south - Too dark to tell.
+west  - Too dark to tell.
+
+> You are too exhausted.
+
+> exits; w
+Obvious exits:
+south - Too dark to tell.
+west  - Too dark to tell.
+
+> You are too exhausted.
+
+> exits; w
+Obvious exits:
+south - Too dark to tell.
+west  - Too dark to tell.
+
+> You are too exhausted.
+
+> exits; s
+Obvious exits:
+south - Too dark to tell.
+west  - Too dark to tell.
+
+> You are too exhausted.
+
+> exits; s
+
+You are hungry.
+You are thirsty.
+
+> exits
+Obvious exits:
+south - Too dark to tell.
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> e
+Obvious exits:
+south - Too dark to tell.
+west  - Too dark to tell.
+
+> The door seems to be closed.
+
+> exits; n
+Obvious exits:
+south - Too dark to tell.
+west  - Too dark to tell.
+
+> The door seems to be closed.
+
+> exits; n
+Obvious exits:
+south - Too dark to tell.
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; e
+Obvious exits:
+south - Too dark to tell.
+west  - Too dark to tell.
+
+> The door seems to be closed.
+
+> exits; n
+Obvious exits:
+south - Too dark to tell.
+west  - Too dark to tell.
+
+> It is pitch black...
+
+> exits; s
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> It is pitch black...
+
+> exits; w
+Obvious exits:
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; s
+
+You are hungry.
+You are thirsty.
+
+> exits
+Obvious exits:
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> s
+Obvious exits:
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> It is pitch black...
+
+> exits; e
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> It is pitch black...
+
+> exits; n
+Obvious exits:
+south - Too dark to tell.
+west  - Too dark to tell.
+
+> The door seems to be closed.
+
+> exits; n
+Obvious exits:
+south - Too dark to tell.
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; e
+Obvious exits:
+south - Too dark to tell.
+west  - Too dark to tell.
+
+> You are too exhausted.
+
+> exits; w
+Obvious exits:
+south - Too dark to tell.
+west  - Too dark to tell.
+
+> You are too exhausted.
+
+> exits; s
+Obvious exits:
+south - Too dark to tell.
+west  - Too dark to tell.
+
+> The door seems to be closed.
+
+> exits; n
+Obvious exits:
+south - Too dark to tell.
+west  - Too dark to tell.
+
+> You are too exhausted.
+
+> exits; s
+Obvious exits:
+south - Too dark to tell.
+west  - Too dark to tell.
+
+> You are too exhausted.
+
+> exits; w
+Obvious exits:
+south - Too dark to tell.
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; e
+Obvious exits:
+south - Too dark to tell.
+west  - Too dark to tell.
+
+> You are too exhausted.
+
+> exits; s
+
+You are hungry.
+You are thirsty.
+
+> exits
+Obvious exits:
+south - Too dark to tell.
+west  - Too dark to tell.
+
+> It is pitch black...
+
+> s
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> You are too exhausted.
+
+> exits; e
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> You are too exhausted.
+
+> exits; e
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> You are too exhausted.
+
+> exits; w
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> You are too exhausted.
+
+> exits; n
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; s
+
+You are hungry.
+You are thirsty.
+
+> exits
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> It is pitch black...
+
+> w
+Obvious exits:
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> It is pitch black...
+
+> exits; e
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> You are too exhausted.
+
+> exits; w
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> You are too exhausted.
+
+> exits; w
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> You are too exhausted.
+
+> exits; w
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> You are too exhausted.
+
+> exits; e
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> You are too exhausted.
+
+> exits; e
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> You are too exhausted.
+
+> exits; n
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> You are too exhausted.
+
+> exits; w
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> You are too exhausted.
+
+> exits; n
+
+You are hungry.
+You are thirsty.
+
+> exits
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> s
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> It is pitch black...
+
+> exits; w
+Obvious exits:
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> It is pitch black...
+
+> exits; e
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> You are too exhausted.
+
+> exits; e
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> You are too exhausted.
+
+> exits; e
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> You are too exhausted.
+
+> exits; e
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> You are too exhausted.
+
+> exits; w
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+north - Too dark to tell.
+east  - Too dark to tell.
+west  - Too dark to tell.
+
+> You are too exhausted.
+
+> exits; w
+
+The sun rises in the east.
+You are hungry.
+You are thirsty.
+
+> exits
+Obvious exits:
+north - Outside A Small Cabin In The Forest
+east  - A Small Path In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> A Small Path In The Dense Forest
+   You are on a small path leading through the dense forest.  The crowns of
+the old trees leave the forest in an unreal twilight illumination.  The path
+continues east and west.
+A small brook trickles through the forest beside the path.
+A small mushroom grows nearby.
+
+> w
+Obvious exits:
+east  - An Intersection In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> You are too exhausted.
+
+> exits; e
+Obvious exits:
+east  - An Intersection In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> You are too exhausted.
+
+> exits; e
+Obvious exits:
+east  - An Intersection In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> You are too exhausted.
+
+> exits; e
+Obvious exits:
+east  - An Intersection In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> You are too exhausted.
+
+> exits; w
+Obvious exits:
+east  - An Intersection In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+east  - An Intersection In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; n
+Obvious exits:
+east  - An Intersection In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> You are too exhausted.
+
+> exits; w
+Obvious exits:
+east  - An Intersection In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> You are too exhausted.
+
+> exits; w
+Obvious exits:
+east  - An Intersection In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+east  - An Intersection In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> You are too exhausted.
+
+> exits; e
+
+The fallow deer has arrived.
+
+> exits
+Obvious exits:
+east  - An Intersection In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> n
+Obvious exits:
+east  - An Intersection In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; n
+
+The day has begun.
+You are hungry.
+You are thirsty.
+
+> exits
+Obvious exits:
+east  - An Intersection In The Dense Forest
+west  - An Intersection In The Dense Forest
+
+> An Intersection In The Dense Forest
+   You are on a small path leading through the dense forest.  The crowns of the
+old trees leave the forest floor in an unreal twilight illumination.  Paths
+lead north, east and south.
+A robin is hopping around looking for bugs to eat.
+
+> w
+Obvious exits:
+north - An Intersection In The Dense Forest
+east  - A Small Path In The Dense Forest
+south - A Small Path In The Dense Forest
+
+> An Intersection In The Dense Forest
+   You are on a small path leading through the dense forest.  The crowns of
+the old trees leave the forest in an unreal twilight illumination.  The forest
+gradually lightens to the east.  Paths lead east, west and south.
+A small brook trickles through the forest beside the path.
+A robin is hopping around looking for bugs to eat.
+A small rabbit is foraging in the bushes here.
+
+> exits; n
+Obvious exits:
+east  - The Forest Clearing
+south - An Intersection In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; n
+Obvious exits:
+east  - The Forest Clearing
+south - An Intersection In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; s
+Obvious exits:
+east  - The Forest Clearing
+south - An Intersection In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; e
+Obvious exits:
+east  - The Forest Clearing
+south - An Intersection In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; n
+Obvious exits:
+east  - The Forest Clearing
+south - An Intersection In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; w
+Obvious exits:
+east  - The Forest Clearing
+south - An Intersection In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; n
+Obvious exits:
+east  - The Forest Clearing
+south - An Intersection In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; n
+Obvious exits:
+east  - The Forest Clearing
+south - An Intersection In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; e
+
+The rabbit leaves west.
+
+> exits
+Obvious exits:
+east  - The Forest Clearing
+south - An Intersection In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> s
+Obvious exits:
+east  - The Forest Clearing
+south - An Intersection In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; e
+
+It starts to rain.
+You are hungry.
+You are thirsty.
+
+> exits
+Obvious exits:
+east  - The Forest Clearing
+south - An Intersection In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> A Small Path In The Dense Forest
+   You are on a small path leading through the dense forest.  The crowns of
+the old trees leave the forest in an unreal twilight illumination.  The path
+continues north and east.
+A small brook trickles through the forest beside the path.
+A small mushroom grows nearby.
+A grey squirrel with a bushy tail is foraging for nuts here.
+A grey squirrel with a bushy tail is foraging for nuts here.
+A small rabbit is foraging in the bushes here.
+
+> w
+
+The robin has arrived.
+
+> exits
+Obvious exits:
+north - A Small Path In The Dense Forest
+east  - An Intersection In The Dense Forest
+
+> An Intersection In The Dense Forest
+   You are on a small path leading through the dense forest.  The crowns of
+the old trees leave the forest in an unreal twilight illumination.  The forest
+gradually lightens to the east.  Paths lead east, west and south.
+A small brook trickles through the forest beside the path.
+
+> e
+Obvious exits:
+east  - The Forest Clearing
+south - An Intersection In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; w
+Obvious exits:
+east  - The Forest Clearing
+south - An Intersection In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; w
+
+The rabbit has arrived.
+
+> exits
+Obvious exits:
+east  - The Forest Clearing
+south - An Intersection In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> n
+Obvious exits:
+east  - The Forest Clearing
+south - An Intersection In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; w
+
+The robin has arrived.
+
+> exits
+Obvious exits:
+east  - The Forest Clearing
+south - An Intersection In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> e
+Obvious exits:
+east  - The Forest Clearing
+south - An Intersection In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; e
+Obvious exits:
+east  - The Forest Clearing
+south - An Intersection In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; s
+Obvious exits:
+east  - The Forest Clearing
+south - An Intersection In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; w
+Obvious exits:
+east  - The Forest Clearing
+south - An Intersection In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; s
+Obvious exits:
+east  - The Forest Clearing
+south - An Intersection In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; n
+Obvious exits:
+east  - The Forest Clearing
+south - An Intersection In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> You are too exhausted.
+
+> exits; w
+
+You are hungry.
+You are thirsty.
+
+> exits
+Obvious exits:
+east  - The Forest Clearing
+south - An Intersection In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> n
+Obvious exits:
+east  - The Forest Clearing
+south - An Intersection In The Dense Forest
+west  - A Small Path In The Dense Forest
+
+> A Small Path In The Dense Forest
+   You are on a small path leading through the dense forest.  The crowns of
+the old trees leave the forest in an unreal twilight illumination.  The path
+continues north and east.
+A small brook trickles through the forest beside the path.
+A small mushroom grows nearby.
+A grey squirrel with a bushy tail is foraging for nuts here.
+
+> exits; w
+Obvious exits:
+north - A Small Path In The Dense Forest
+east  - An Intersection In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+north - A Small Path In The Dense Forest
+east  - An Intersection In The Dense Forest
+
+> You are too exhausted.
+
+> exits; e
+Obvious exits:
+north - A Small Path In The Dense Forest
+east  - An Intersection In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+north - A Small Path In The Dense Forest
+east  - An Intersection In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> Obvious exits:
+north - A Small Path In The Dense Forest
+east  - An Intersection In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; s; exits; s
+Obvious exits:
+north - A Small Path In The Dense Forest
+east  - An Intersection In The Dense Forest
+
+> You are too exhausted.
+
+> exits; e
+Obvious exits:
+north - A Small Path In The Dense Forest
+east  - An Intersection In The Dense Forest
+
+> You are too exhausted.
+
+> 
+You are hungry.
+You are thirsty.
+
+> exits; e
+Obvious exits:
+north - A Small Path In The Dense Forest
+east  - An Intersection In The Dense Forest
+
+> A Small Path In The Dense Forest
+   You are on a small path leading through the dense forest.  The crowns of
+the old trees leave the forest in an unreal twilight illumination.  The path
+continues north and south.
+A sparrow is flapping around by the ground.
+
+> exits; n
+Obvious exits:
+north - A Trail Through The Dense Forest
+south - A Small Path In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; w
+Obvious exits:
+north - A Trail Through The Dense Forest
+south - A Small Path In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; e
+Obvious exits:
+north - A Trail Through The Dense Forest
+south - A Small Path In The Dense Forest
+
+> A Small Path In The Dense Forest
+   You are on a small path leading through the dense forest.  The crowns of
+the old trees leave the forest in an unreal twilight illumination.  The path
+continues north and east.
+A small brook trickles through the forest beside the path.
+A small mushroom grows nearby.
+A grey squirrel with a bushy tail is foraging for nuts here.
+
+> exits; s
+Obvious exits:
+north - A Small Path In The Dense Forest
+east  - An Intersection In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; w
+Obvious exits:
+north - A Small Path In The Dense Forest
+east  - An Intersection In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; w
+Obvious exits:
+north - A Small Path In The Dense Forest
+east  - An Intersection In The Dense Forest
+
+> You are too exhausted.
+
+> exits; n
+Obvious exits:
+north - A Small Path In The Dense Forest
+east  - An Intersection In The Dense Forest
+
+> You are too exhausted.
+
+> exits; e
+Obvious exits:
+north - A Small Path In The Dense Forest
+east  - An Intersection In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; s
+Obvious exits:
+north - A Small Path In The Dense Forest
+east  - An Intersection In The Dense Forest
+
+> You are too exhausted.
+
+> exits; n
+Obvious exits:
+north - A Small Path In The Dense Forest
+east  - An Intersection In The Dense Forest
+
+> You are too exhausted.
+
+> exits; e
+Obvious exits:
+north - A Small Path In The Dense Forest
+east  - An Intersection In The Dense Forest
+
+> Alas, you cannot go that way...
+
+> exits; w
+
+You are hungry.
+You are thirsty.
+
+> exits
+Obvious exits:
+north - A Small Path In The Dense Forest
+east  - An Intersection In The Dense Forest
+
+> A Small Path In The Dense Forest
+   You are on a small path leading through the dense forest.  The crowns of
+the old trees leave the forest in an unreal twilight illumination.  The path
+continues north and south.
+A sparrow is flapping around by the ground.
+
+> n
+Obvious exits:
+north - A Trail Through The Dense Forest
+south - A Small Path In The Dense Forest
+
+> A Trail Through The Dense Forest
+   You are on a trail winding east and west through the dense forest.  To the
+west, the trees are so huge and their crowns so dense that forest remains in
+total darkness.  A small path leads south through the trees.
+
+> exits; n
+Obvious exits:
+east  - A Trail Through The Dense Forest
+south - A Small Path In The Dense Forest
+west  - Too dark to tell.
+
+> You are too exhausted.
+
+> exits; w
+Obvious exits:
+east  - A Trail Through The Dense Forest
+south - A Small Path In The Dense Forest
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; n
+Obvious exits:
+east  - A Trail Through The Dense Forest
+south - A Small Path In The Dense Forest
+west  - Too dark to tell.
+
+> You are too exhausted.
+
+> exits; e
+Obvious exits:
+east  - A Trail Through The Dense Forest
+south - A Small Path In The Dense Forest
+west  - Too dark to tell.
+
+> Alas, you cannot go that way...
+
+> exits; n
+Obvious exits:
+east  - A Trail Through The Dense Forest
+south - A Small Path In The Dense Forest
+west  - Too dark to tell.
+
+> You are too exhausted.
+
+> exits; s
+> > > > > > > > > > > ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; 
+
+You are hungry.
+You are thirsty.
+
+> 
+> > 
+
+You are hungry.
+You are thirsty.
+
+> 
