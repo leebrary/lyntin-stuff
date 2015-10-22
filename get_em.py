@@ -14,10 +14,11 @@ def look_fortarget(args):
             exported.lyntin_command('kill '+target)
     return args['data']
 
-def timer(args):
+def timerget(args):
     tick = args['tick']
-    if tick%15 == 0:
-        exported.lyntin_command(random.choice('eswn'))
+    if tick:
+        if tick % random.choice(range(4,10)) == 0:
+            exported.lyntin_command(random.choice('eswn'))
     return tick
 
 
@@ -35,12 +36,12 @@ def pick_target(ses,args,input):
 command_dic ['tar']=(pick_target,'value=')
 
 def load():
-    exported.hook_register('timer_hook',timer)
+    exported.hook_register('timer_hook',timerget)
     exported.hook_register('mud_filter_hook',look_fortarget)
     modutils.load_commands(command_dic)
 
 def unload():
-    exported.hook_unregister('timer_hook',timer)
+    exported.hook_unregister('timer_hook',timerget)
     exported.hook_unregister('mud_filter_hook',look_fortarget)
     modutils.unload_commands(command_dic)
 
