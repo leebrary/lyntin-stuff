@@ -1,3 +1,4 @@
+-config commandchar -
 -alias {k} {kick}
 -alias {b} {bash}
 -alias {fle} {-4 flee}

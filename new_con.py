@@ -8,8 +8,8 @@ targets = []
 taking_inputs = 'yes'
 exits = []
 combat = 0
-with open('/home/devin/lyntin-4.2/my_stuff/my_tars.txt','r') as phile:
-    targets = phile.readline().split()
+#with open('/home/devin/lyntin-4.2/my_stuff/my_tars.txt','r') as phile:
+#    targets = phile.readline().split()
 immd_tars = []
 fled = 0
 def find_nmes(args):
@@ -35,7 +35,9 @@ def find_nmes(args):
     if 'Fighting:' in text:
         if random.choice(range(3)) == 1:
             exported.lyntin_command('kick' if random.choice('kb')== 'k' else 'bash')
-            exported.lyntin_command('dirt' if random.choice('ewww') == 'e' else '')
+            exported.lyntin_command('dirt' if random.choice('es') == 'e' else 'stun')
+        if random.choice(range(4)) == 1:
+            exported.lyntin_command('intimidate')
         if health < 300 :
             exported.write_message('trying to flee \n')
             exported.lyntin_command('fle')
